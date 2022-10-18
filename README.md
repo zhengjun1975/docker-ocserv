@@ -134,3 +134,4 @@ The above command will delete the default user `test`, if you start the instance
 #### Change password
 
 Change password is exactly the same command as add user, please refer to the command mentioned above.
+部署简单，直接添加用户就可以用anyconnect客户端连接了，但是只通过证书的验证方式还没有测试通过。
